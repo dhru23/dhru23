@@ -1,3 +1,5 @@
+![logo](https://github.com/dhru23/dhru23/blob/main/github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Dhru Patel</h1>
 <h3 align="center">A passionate Web Developer from Surat, Gujarat.</h3>
 
