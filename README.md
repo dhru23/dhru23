@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhru23&label=Profile%20views&color=0e75b6&style=flat" alt="dhru23" /> </p>
 
-- 🔭 I’m currently working on React Chat App **Realtime-Chat-App**
+- 🔭 I’m currently working on **Realtime-Chat-App**
 
 - 🌱 I’m currently learning **Three.JS , Next.js , and many more...**
 
-- 📫 How to reach me **dhru7622@gmail.com**
+- 📫 Reach me at **dhru7622@gmail.com**
 
 - ⚡ Fun fact **When I passed the vibe check, they realized I wasn't just funny, I was hilariously awesome !!!**
 
