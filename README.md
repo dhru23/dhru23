@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Three.JS , Next.js , and many more...**
 
-- 📫 Reach me at **dhru7622@gmail.com**
+- 📫 Reach me at **dhruvpatel6959@gmail.com**
 
 - ⚡ Fun fact **When I passed the vibe check, they realized I wasn't just funny, I was hilariously awesome !!!**
 
